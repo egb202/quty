@@ -2,25 +2,6 @@
 
 ### Installation
 
-If you do not wish to install PIO globally, please see [Advanced Installation](#advanced-installation)
-
-1. Install PlatformIO.
-
-    ```bash
-    # pip (Python users)
-    pip install -U platformio
-
-    # apt (Linux users)
-    sudo apt install platformio
-
-    # brew (macOS users)
-    brew install platformio
-    ```
-
-2. Add the QUTy platform by following the steps in [QUTy Platform Installation](#quty-platform-installation).
-
-### Advanced Installation
-
 1. Download the `get-platformio.py` script from the PlatformIO (PIO) repository.
 
     ```bash
