@@ -6,4 +6,4 @@ A platform to support development of code targeting the QUTy microcontroller dev
 
 ## Installation
 
-For installation instructions see the [QUTy homepage](https://egb202.github.io/quty/).
+For installation instructions see the [QUTy homepage](https://egb202.github.io/quty).
